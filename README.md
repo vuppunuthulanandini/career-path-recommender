@@ -37,3 +37,5 @@ Missing skills: power bi, statistics
 - Python
 - Pandas
 - Matplotlib
+<img width="778" height="551" alt="image" src="https://github.com/user-attachments/assets/f1af605c-5cba-4aa4-857f-61d495407206" />
+
